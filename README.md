@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="331806532_435347158753267_6803712248373320267_n.jpg" width="400">
+    </div>
+
 <h1 align="center">Hi 👋, We are Apokryfistiki Airesi</h1>
 <h3 align="center">We are a small app developer team living in Sri Lanka</h3>
 
