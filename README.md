@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, We are Apokryfistiki Airesi</h1>
 <h3 align="center">We are a small app developer team living in Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apokryfistiki-airesi&label=Profile%20views&color=0e75b6&style=flat" alt="apokryfistiki-airesi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apokryfistiki-airesi" alt="apokryfistiki-airesi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a_airesi" target="blank"><img src="https://img.shields.io/twitter/follow/a_airesi?logo=twitter&style=for-the-badge" alt="a_airesi" /></a> </p>
 
@@ -31,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apokryfistiki-airesi&show_icons=true&locale=en" alt="apokryfistiki-airesi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apokryfistiki-airesi&" alt="apokryfistiki-airesi" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apokryfistiki-airesi&label=Profile%20views&color=0e75b6&style=flat" alt="apokryfistiki-airesi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apokryfistiki-airesi" alt="apokryfistiki-airesi" /></a> </p>
